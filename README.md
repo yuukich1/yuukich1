@@ -4,7 +4,7 @@
 
 <h3 align="center"> I develop in Python using the FastAPI framework and SQLAlchemy library. I have used Redis, PostgreSQL, Celery and Docker in various projects. I have occasionally had to work with PHP and ReactJS.</h3> 
 
-<div style="text-align: center;">
+<div style="magin: 0 auto">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
