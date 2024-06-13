@@ -5,4 +5,4 @@
 <h3 align="center"> I develop in Python using the FastAPI framework and SQLAlchemy library. I have used Redis, PostgreSQL, Celery and Docker in various projects.</h3> 
 
 
-- 📫 How to reach me: t.me/ultimap
+<h2 align="center">📫 t.me/ultimap</h2>
