@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using Next.js and FastAPI.js**
+- 💼 I'm currently working on: **💻 Developing a new platform using Next.js and FastAPI.js**
 - 🌱 I'm currently learning: **📚 Exploring Zustand**
 - 💬 Ask me about: **💡 Python, FastAPI,React, Postgres, and RESTful APIs **
 - ⚡ Fun fact: **🎢 I once solved a problem from my phone while on the bus!**
