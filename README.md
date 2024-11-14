@@ -1,18 +1,44 @@
-<h1 align="center">Hi there, I'm Yuuki</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am a junior fullstack developer with a diploma in information systems and programming</h3>
+![👋 Hi, my name is Arsentiy Truhov](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-Is-Pair-Programming--1.png)
 
-<h3 align="center"> I develop in Python using the FastAPI framework and SQLAlchemy library. I have used Redis, PostgreSQL, Celery and Docker in various projects. I have occasionally had to work with PHP and ReactJS.</h3> 
+![Profile views](https://komarev.com/ghpvc/?username=Yuukich1&label=Profile%20views&color=0e75b6&style=flat)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Arsentiy Truhov
+      </h1>
+    </summary>
+  </ul>
+</div>
 
+**<h3 align="center">Connect with me:</h3>** 
+<p align="center"><a href="https://github.com/yuukich1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="ultimapgg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<h2 align="center">📫 <a href="https://t.me/ultimap">Telegram</a></h2>
+ **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using Next.js and FastAPI.js**
+- 🌱 I'm currently learning: **📚 Exploring Zustand**
+- 💬 Ask me about: **💡 Python, FastAPI,React, Postgres, and RESTful APIs **
+- ⚡ Fun fact: **🎢 I once solved a problem from my phone while on the bus!**
+
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="32" alt="FastAPI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" height="32" alt="NestJS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="32" alt="SQLite" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="32" alt="Redis" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Zapier-FA6F00?logo=zapier&logoColor=white" height="32" alt="Zapier" style="margin-right: 4px"></div>
+
+ **<h3 align="left">GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=sushilmagare10&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sushilmagare10&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25&show=&hide_border=true" alt="GitHub stats Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilmagare10&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=6&card_width=400&hide_progress=false&disable_animations=false&locale=en&hide_border=false" alt="GitHub top-langs Card" />
+</p>
+
+ **<h3 align="right">Support Me</h3>**
+
+<p align="right"><a href="https://ko-fi.com/yuukich1" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?style=for-the-badge&logo=kofi&logoColor=Black" height="28" style="margin-right: 4px"></a></p>
