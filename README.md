@@ -21,7 +21,7 @@
 
 - 💼 I'm currently working on: **💻 Developing a new platform using Next.js and FastAPI.js**
 - 🌱 I'm currently learning: **📚 Exploring Zustand**
-- 💬 Ask me about: **💡 Python, FastAPI,React, Postgres, and RESTful APIs **
+- 💬 Ask me about: **💡 Python, FastAPI,React, Postgres, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once solved a problem from my phone while on the bus!**
 
  **<h3 align="left">Skills</h3>**
