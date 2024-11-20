@@ -1,4 +1,4 @@
-![👋 Hi, my name is Arsentiy Truhov](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-Is-Pair-Programming--1.png)
+![👋 Hi, my name is Arsentiy Truhov](https://sun9-31.userapi.com/impg/xZN2gJF8NfzOMZuWfisyzA8qHBWommStc52Xqw/HHsjEufw8zM.jpg?size=1280x596&quality=96&sign=ec122332ee58ab1cac8a5272d77ce713&type=album)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Yuukich1&label=Profile%20views&color=0e75b6&style=flat)
 
