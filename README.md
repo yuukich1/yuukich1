@@ -15,14 +15,13 @@
 **<h3 align="center">Connect with me:</h3>** 
 <p align="center"><a href="https://github.com/yuukich1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="ultimapgg@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+ **<h3 align="left">🚀 Fullstack developer who builds scalable web applications..</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new platform using Next.js and FastAPI.js**
-- 🌱 I'm currently learning: **📚 Exploring Platform integration App**
-- 💬 Ask me about: **💡 Python, FastAPI,React, Postgres, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once solved a problem from my phone while on the bus!**
+- 💼Seeking Position: **💻 Fullstack/Backend Developer**
+- 🌱 I'm currently learning: **📚 Highly Loaded Systems Architecture**
+- ⚡ Fun fact: **🎢 I automated mailings, reducing manual labor by 70%**
 
  **<h3 align="left">Skills</h3>**
 
