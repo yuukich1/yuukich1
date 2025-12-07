@@ -1,4 +1,4 @@
-![👋 Hi, my name is Arsentiy Truhov](https://sun9-31.userapi.com/impg/xZN2gJF8NfzOMZuWfisyzA8qHBWommStc52Xqw/HHsjEufw8zM.jpg?size=1280x596&quality=96&sign=ec122332ee58ab1cac8a5272d77ce713&type=album)
+![👋 Hi, my name is Arsentiy Truhov](https://sun9-31.userapi.com/s/v1/ig2/HDW6hZG_1EMeZ6Huu3Fu15yDehOs81Vf1oIu64E8R8VEurtTY1wErhHzdiQ5G3DkOWucjUKzrgNy7waKDhggE62G.jpg?quality=96&as=32x15,48x22,72x34,108x50,160x74,240x112,360x168,480x223,540x251,640x298,720x335,1080x503,1280x596&from=bu&cs=1280x0)
 
 # 👋 Hi, I’m Arsentiy Truhov
 
