@@ -10,10 +10,10 @@ Backend Python Developer with experience in modular architecture design, REST AP
 
 ## 💡 Key Skills
 
-**Backend:** Python, FastAPI, Flask, Pydantic, AsyncIO  
-**Databases:** PostgreSQL, MySQL, SQLite  
+**Backend:** Python, FastAPI, Pydantic, AsyncIO, Celery
+**Databases:** PostgreSQL, MySQL, SQLite
 **Caching & Messaging:** Redis, RabbitMQ  
-**API:** REST, Webhooks, External Integrations (Facebook, BigCommerce, Klaviyo)  
+**API:** REST, Webhooks, External Integrations
 **Frontend:** React, Next.js, TypeScript, Zustand, Redux, HTML/CSS  
 **Infrastructure:** Docker, Git, CI/CD (basic), Microservices
 
